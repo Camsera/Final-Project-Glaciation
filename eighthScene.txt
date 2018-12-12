@@ -1,0 +1,14 @@
+***************************************************
+***************************************************
+*You have discovered three areas you would like to*
+*investigate further. You know now, that you are  *
+*not alone in this city. You're unsure of what    *
+*you will have to face, but you know it's not     *
+*human. You can try to ignore it a little longer, *
+*but you get this feeling that it's studying you. *
+***************************************************
+*************************************************** 
+
+>1.Continue exploring a little longer.
+>2.Find and face the creature following you, no more time to waste. 
+>3.Ready yourself for the fight ahead.

@@ -1,0 +1,20 @@
+***************************************************
+***************************************************
+*The year is 2588, you are 18 years old. This day *
+*will be the day you leave "The Echo", your home. *
+*You spend weeks prior preparing, saying your     *
+*goodbyes and steeling yourself for the journey   *
+*that lies ahead. A Magnus's first journey lasts  *
+*for five years. With only supplies and tools     *
+*you will be dropped at a specific location       *
+*and given five years to return. The leader of    *
+*your group signals you that it's time for you    *
+*to depart.                                       *
+***************************************************
+***************************************************
+
+Type the number of your choice and press enter.
+
+>1.You've done everything you need to, you're ready
+>to leave on your journey!
+>2.Say goodbye to those you love one last time.

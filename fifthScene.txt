@@ -1,0 +1,22 @@
+***************************************************
+***************************************************
+*This is your first time seeing the outside world.*
+*All you've ever heard is tales, but seeing it    *
+*firsthand, you're struck with awe. Everything is *
+*frozen. The leader of the Magnus accompanied you *
+*to this drop point, helped you set up your camp, *
+*then quickly left. You've been left in the ruins *
+*of an old civilization, hundreds of years old    *
+*that has since been frozen to its core. You're   *
+*tasked with the exploration and mapping of this  *
+*old city. You must also report back anything that*
+*requires deeper investigation. You're alone for  *
+*the first time in your life. Your ears cry out   *
+*from the silence. You know you can't sit still   *
+*for long.                                        *
+***************************************************
+***************************************************
+
+
+>1.Take in your surroundings.
+>3.Explore the city.
